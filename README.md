@@ -1,4 +1,4 @@
-# Hello, I'm Taksin Raja 👋
+# Hello, I'm Md Raza 👋
 
 *BCA Student | Web Developer | UI/UX Designer*
 
@@ -9,13 +9,13 @@
 - ⚡ Fun fact: I love designing intuitive and user-friendly interfaces.
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taksinraja)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taksinraja)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raza01/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdraza77)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MdRaza01)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taskinraja01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://taksinraja.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdraza8397@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 
 ### ⚒ Technical Skills:
@@ -59,9 +59,7 @@
   - Ensured cross-browser compatibility and optimized websites for mobile devices.
 
 ## Projects:
-- 🌐 [Weather Forecasting Website](https://github.com/taksinraja/weather-forecasting) – A real-time weather prediction platform with a login system, calendar integration, and map features.
 - 🏧 [ATM Machine Simulator](https://github.com/taksinraja/ATM-simulator) – A Python-based ATM simulation project.
-- 🍽 [5Star Hostel Restaurant Website](https://github.com/taksinraja/5star-restaurant) – An online food ordering system with features like add-to-cart, user login, online payment, and admin panel for managing orders and menus.
 
 ### 📈 GitHub Stats:
 ![Taksin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taksinraja&show_icons=true&theme=radical) ![Taksin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taksinraja&theme=radical&layout=compact)
