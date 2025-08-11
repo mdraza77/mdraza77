@@ -1,55 +1,61 @@
-<div align="center">
+# Hello, I'm Md Raza 👋
 
-Hi there, I'm Md Raza 👋
-A passionate Full Stack Developer from India 🇮🇳
-</div>
+*BCA Student | Full Stack Web Developer*
 
-📊 My GitHub Stats
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dmdraza77%26theme%3Ddracula%26column%3D7%26no-frame%3Dtrue" alt="GitHub Trophies" />
-</a>
-</p>
+- 🎓 I am currently pursuing a Bachelor of Computer Applications (BCA) at Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal (2022-2025).
+- 🌱 I’m continuously learning new technologies, currently focusing on Git and GitHub.
+- 👨‍💻 I’m actively working on various web development projects and gaining practical experience through internships.
+- 📫 How to reach me: [mdraza8397@gmail.com](mailto:mdraza8397@gmail.com)
+- ⚡ Fun fact: I love designing intuitive and user-friendly interfaces.
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmdraza77%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat-square" alt="Profile Views" />
-</p>
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raza01/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdraza77)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MdRaza01)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdraza8397@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://mdraza77.github.io/Portfolio/)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmdraza77%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dmdraza77%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmdraza77%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Streak" />
-</p>
+### ⚒ Technical Skills:
 
-💻 Tech Stack
-<p align="center">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
-</p>
+#### 🖥 *Programming Languages:*
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-🤝🏻 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/md-raza-web-developer" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-raza-web-developer" height="40" />
-</a>
-&nbsp;&nbsp;
-<!-- Replace '#' with your Twitter profile link -->
-<a href="#" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="40" />
-</a>
-</p>
+#### 🌐 *Web Development:*
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🎨 *UI/UX Design:*
+![Figma](https://img.shields.io/badge/Figma-%2300D1FF.svg?style=for-the-badge&logo=figma&logoColor=white)
+![UI Development](https://img.shields.io/badge/UI%20Development-%2300D1FF.svg?style=for-the-badge&logo=uxpin&logoColor=white)
+
+#### 🛠 *Tools:*
+![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💼 Work Experience:
+
+- *Web Development Intern*  
+  🏢 Euphoria GenX & CodSoft  
+  📅 June 2024 - August 2024  
+  - Developed and maintained responsive websites using *HTML, **CSS, **JavaScript, **PHP, and **MySQL*.
+  - Collaborated with the UI/UX design team to implement user-friendly interfaces.
+  - Ensured cross-browser compatibility and optimized websites for mobile devices.
+
+## Projects:
+- 🏧 [Az Furniture]() – A web based e-commerce project.
+
+### 📈 GitHub Stats:
+![Md Raza's GitHub Stats]() ![Md Raza's Most Used Languages]()
+
+## 🏆 GitHub Trophies
+![]()
