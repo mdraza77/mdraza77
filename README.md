@@ -1,6 +1,6 @@
 # Hello, I'm Md Raza 👋
 
-*BCA Student | Web Developer | UI/UX Designer*
+*BCA Student | Full Stack Web Developer*
 
 - 🎓 I am currently pursuing a Bachelor of Computer Applications (BCA) at Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal (2022-2025).
 - 🌱 I’m continuously learning new technologies, currently focusing on Git and GitHub.
@@ -35,7 +35,6 @@
 #### 🎨 *UI/UX Design:*
 ![Figma](https://img.shields.io/badge/Figma-%2300D1FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![UI Development](https://img.shields.io/badge/UI%20Development-%2300D1FF.svg?style=for-the-badge&logo=uxpin&logoColor=white)
-![UX Research](https://img.shields.io/badge/UX%20Research-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 🛠 *Tools:*
 ![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -45,12 +44,6 @@
 
 ## 💼 Work Experience:
 
-- *Python Developer Intern*  
-  🏢 OctaNet Services Pvt Ltd  
-  📅 August 2024 - September 2024  
-  - Worked on Python-based projects and developed automation scripts.
-  - Gained experience in debugging and improving code efficiency.
-
 - *Web Development Intern*  
   🏢 Euphoria GenX & CodSoft  
   📅 June 2024 - August 2024  
@@ -59,7 +52,7 @@
   - Ensured cross-browser compatibility and optimized websites for mobile devices.
 
 ## Projects:
-- 🏧 [ATM Machine Simulator]() – A Python-based ATM simulation project.
+- 🏧 [Az Furniture]() – A web based e-commerce project.
 
 ### 📈 GitHub Stats:
 ![Md Raza's GitHub Stats]() ![Md Raza's Most Used Languages]()
