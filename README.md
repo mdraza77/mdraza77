@@ -1,61 +1,27 @@
-# Hello, I'm Md Raza 👋
-
-*BCA Student | Full Stack Web Developer*
-
-- 🎓 I am currently pursuing a Bachelor of Computer Applications (BCA) at Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal (2022-2025).
-- 🌱 I’m continuously learning new technologies, currently focusing on Git and GitHub.
-- 👨‍💻 I’m actively working on various web development projects and gaining practical experience through internships.
-- 📫 How to reach me: [mdraza8397@gmail.com](mailto:mdraza8397@gmail.com)
-- ⚡ Fun fact: I love designing intuitive and user-friendly interfaces.
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raza01/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdraza77)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MdRaza01)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdraza8397@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://mdraza77.github.io/Portfolio/)
+# 💫 About Me:
+👋 Hi, I'm Md Raza, a passionate Full Stack Developer (Laravel + MySQL + JS) with a strong foundation in Computer Applications (BCA).<br>🎓 I’ve completed my Bachelor of Computer Applications (BCA) and currently gaining real-world experience at Yasham Software through a hands-on internship in Laravel-based development.<br>💻 I enjoy turning ideas into interactive, secure, and efficient web applications.<br>🚀 My academic major project, Spheria, is a social media web app inspired by Instagram — built with HTML, CSS, JS, PHP, MySQL, and Bootstrap.<br>🧠 I’m continuously learning advanced backend architecture, REST APIs, and database optimization to refine my skills.<br>🎯 Goal: To grow as a Full Stack Engineer with strong focus on scalable and maintainable web systems.<br>📫 Let’s connect: mdraza8397@gmail.com | https://www.linkedin.com/in/md-raza-web-developer/
 
 
-### ⚒ Technical Skills:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pvt.mdraza/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-raza-web-developer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MdRaza01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdraza8397@gmail.com) 
 
-#### 🖥 *Programming Languages:*
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 *Web Development:*
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🎨 *UI/UX Design:*
-![Figma](https://img.shields.io/badge/Figma-%2300D1FF.svg?style=for-the-badge&logo=figma&logoColor=white)
-![UI Development](https://img.shields.io/badge/UI%20Development-%2300D1FF.svg?style=for-the-badge&logo=uxpin&logoColor=white)
-
-#### 🛠 *Tools:*
-![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 💼 Work Experience:
-
-- *Web Development Intern*  
-  🏢 Euphoria GenX & CodSoft  
-  📅 June 2024 - August 2024  
-  - Developed and maintained responsive websites using *HTML, **CSS, **JavaScript, **PHP, and **MySQL*.
-  - Collaborated with the UI/UX design team to implement user-friendly interfaces.
-  - Ensured cross-browser compatibility and optimized websites for mobile devices.
-
-## Projects:
-- 🏧 [Az Furniture]() – A web based e-commerce project.
-
-### 📈 GitHub Stats:
-![Md Raza's GitHub Stats]() ![Md Raza's Most Used Languages]()
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdraza77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdraza77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdraza77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]()
+![](https://github-profile-trophy.vercel.app/?username=mdraza77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdraza77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mdraza77&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
